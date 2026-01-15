@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07fa6fab161871a4bac9d6635ee056cc, type: 3}
+  m_Name: S0_11
+  m_EditorClassIdentifier: 
+  sceneImage: {fileID: -698272116003553357, guid: abefdc3178a98374db1b3d1a61c8c95d, type: 3}
+  dialogueText: Her yer kan oldu... Ama durdurabilirim.
+  voiceClip: {fileID: 8300000, guid: cf75d78ddf9b9c54dae186d995b49e18, type: 3}
+  sfxClip: {fileID: 0}
+  nextStep: {fileID: 11400000, guid: 018144d42909a5e4fac98ff1934997d7, type: 2}

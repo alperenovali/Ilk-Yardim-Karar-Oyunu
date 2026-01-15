@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07fa6fab161871a4bac9d6635ee056cc, type: 3}
+  m_Name: S0_8
+  m_EditorClassIdentifier: 
+  sceneImage: {fileID: 270835078256868502, guid: 9ed53fa1817dfc34aaf974b813344dc0, type: 3}
+  dialogueText: "Yapam\u0131yorum... Elim aya\u011F\u0131m titriyor. L\xFCtfen...Biri
+    yard\u0131m etsin!"
+  voiceClip: {fileID: 8300000, guid: 3a5ed565af332f44cbf789df9ce55499, type: 3}
+  sfxClip: {fileID: 0}
+  nextStep: {fileID: 11400000, guid: f3b4aec2622a9e34abc8dd952b3192a5, type: 2}

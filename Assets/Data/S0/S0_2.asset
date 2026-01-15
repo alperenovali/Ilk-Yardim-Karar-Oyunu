@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07fa6fab161871a4bac9d6635ee056cc, type: 3}
+  m_Name: S0_2
+  m_EditorClassIdentifier: 
+  sceneImage: {fileID: -5808759225277096546, guid: 9bbb5c3947c0ed84dae5944b8c8a11aa, type: 3}
+  dialogueText: "Tazecik domatesler... Birazdan g\xFCzel bir sos olacaklar."
+  voiceClip: {fileID: 8300000, guid: a59dc761a01f61342aafbe6a935fae7e, type: 3}
+  sfxClip: {fileID: 8300000, guid: cafd61bdcc15f0148ac728963601f1db, type: 3}
+  nextStep: {fileID: 11400000, guid: f0344afe32afbf642b7a38b09e812b27, type: 2}

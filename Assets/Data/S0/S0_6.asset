@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07fa6fab161871a4bac9d6635ee056cc, type: 3}
+  m_Name: S0_6
+  m_EditorClassIdentifier: 
+  sceneImage: {fileID: 6765689570802252980, guid: 4b2ca3e0c074a3d4594d539b8563a531, type: 3}
+  dialogueText: "Neden... Neden durmuyor? Ba\u015F\u0131m... Ba\u015F\u0131m d\xF6nmeye
+    ba\u015Flad\u0131."
+  voiceClip: {fileID: 8300000, guid: 343385b2b45ec3f41a33cf0b9e74efd2, type: 3}
+  sfxClip: {fileID: 0}
+  nextStep: {fileID: 11400000, guid: 013deb30f744d3e47a2a04fd37cd7f3f, type: 2}
