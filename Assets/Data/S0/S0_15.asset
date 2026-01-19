@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 07fa6fab161871a4bac9d6635ee056cc, type: 3}
-  m_Name: S0_12
+  m_Name: S0_15
   m_EditorClassIdentifier: 
-  sceneImage: {fileID: -1714446239959189220, guid: 6a042d18acfe5f54db2d97d6070097e1, type: 3}
+  sceneImage: {fileID: -718009715367392605, guid: db2e5a48903c79a4f9b993d364256699, type: 3}
   dialogueText: "Bast\u0131r... Kan\u0131 durdurmak i\xE7in s\u0131k\u0131ca bast\u0131r!"
-  voiceClip: {fileID: 8300000, guid: 6c3c78ea007e26641b63f5f418d5b29c, type: 3}
+  voiceClip: {fileID: 0}
   sfxClip: {fileID: 0}
-  nextStep: {fileID: 11400000, guid: 6de23be065d63124b838c724adac6f9e, type: 2}
+  nextStep: {fileID: 11400000, guid: 417d61f4f6a53ec4e9559593557dc037, type: 2}
